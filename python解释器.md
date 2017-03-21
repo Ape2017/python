@@ -4,12 +4,22 @@ http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a0
 
 by 廖雪峰
 
-CPython
+## CPython
 
-IPython
+官方版本解释器。
 
-PyPy
+## IPython
 
-Jython
+IPython 是基于 CPython 之上的一个交互解释器。
 
-IronPython
+## PyPy
+
+执行速度快。采用 JIT 技术，对 Python 代码进行动态编译。
+
+## Jython
+
+Python => Java 字节码
+
+## IronPython
+
+Python => .Net 字节码
