@@ -5,6 +5,7 @@
 - [理解 `with` 语句](understanding-with-statement.md)
 - [urllib 简介](urllib-intro.md)
 - [如何使用模块？](python-2.7-tutorial-liao/notes4-module.md)
+- [如何理解面向对象编程？](python-2.7-tutorial-liao/notes5-oop-basics.md)
 
 ## 教程列表
 
