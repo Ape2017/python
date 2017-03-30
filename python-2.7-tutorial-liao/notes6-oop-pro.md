@@ -5,3 +5,10 @@
 涉及到的概念有：多重继承、定制类、元类等。
 
 ## 使用 `__slots__`
+
+Python 允许在定义 class 时，使用 `__slots__` 特殊变量限制实例的属性。
+
+查看[代码实例](../scripts/oop_slots.py)。
+
+## 使用 @property
+
