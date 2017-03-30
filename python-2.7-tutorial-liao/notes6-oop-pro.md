@@ -52,6 +52,10 @@ class MyUDPServer(UDPServer, ThreadingMixIn):
 
 ## 使用枚举类
 
-Python 提供 `Enum` 类实现枚举类型。
+Python 提供 `Enum` 类实现枚举类型。查看[代码实例](../scripts/oop_enum.py)。
 
 ## 使用元类
+
+动态语言和静态语言最大的不同，就是函数和类的定义，不是在编译时定义的，而是运行时动态创建的。
+
+> 元类比较复杂，此处没有学习明白。需要单独学习。
