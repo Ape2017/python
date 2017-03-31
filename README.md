@@ -7,6 +7,7 @@
 - [如何使用模块？](python-2.7-tutorial-liao/notes4-module.md)
 - [如何理解面向对象编程？](python-2.7-tutorial-liao/notes5-oop-basics.md)
 - [如何理解 metaclass ?](understand-metaclass.md)
+- [如何调试？](python-2.7-tutorial-liao/notes7-debug.md)
 
 ## 教程列表
 
