@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# search a specific pattern under current directory
+# Usage: ./my_grep.py .py
 
 import os
 import sys

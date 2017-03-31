@@ -114,3 +114,22 @@ os.remove('test.py')                              # 删掉文件
 # 列出所有的 .py 文件
 [x for x in os.listdir('.') if os.path.isfile(x) and os.path.splitext(x)[1] == '.py']
 ```
+
+查看[代码](../scripts/io/my_grep.py)
+
+## 序列化
+
+把变量从内存中变成可存储或传输的过程称之为序列化，在 Python 中叫 `pickling` ；反过来，把变量内容从序列化的对象重新读到内存里称之为反序列化，即 `unpickling`。
+
+Python 提供了 `pickle` 模块来实现序列化。Pickle 只能用于 Python ，并且可能不同版本的 Python 都不兼容，因此只能保存那些不重要的数据。查看[代码](../scripts/io/do_pickle.py)
+
+> 哪些数据是不重要的...
+
+### JSON
+
+Python 内置的 `json` 模块提供了非常完善的 Python 对象到 JSON 对象的转换。
+
+代码实例如下：
+
+* [json](../scripts/io/use_json.py)
+* [json 高级用法](../scripts/io/use_json_pro.py)
