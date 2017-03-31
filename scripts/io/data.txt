@@ -1,0 +1,10 @@
+Python for fun.
+There are many ways to read file.
+read(): read all content
+read(size): read at most size each time
+readline(): read one line each time
+readlines(): read once, each time return a line.
+
+If the file is small, use read();
+If not sure how big that file is, use read(size);
+If read config file, readlines() is most convenient.
