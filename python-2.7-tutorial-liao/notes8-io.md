@@ -71,5 +71,15 @@ f = open('/path/to/file', 'r', encoding='gbk', errors='ignore')
 
 ## StringIO 和 BytesIO
 
-StringIO 就是在内存中读写 str 。
+StringIO 就是在内存中读写 str ，查看[代码](../scripts/io/stringio.py)。
 
+BytesIO 在内存中操作二进制数据，查看[代码](../scripts/io/bytesio.py)。
+
+## 操作文件和目录
+
+Python 内置的 `os` 模块可以直接调用操作系统提供的基本功能：
+
+```python
+import os
+os.name # 操作系统类型
+```
