@@ -82,4 +82,35 @@ Python 内置的 `os` 模块可以直接调用操作系统提供的基本功能�
 ```python
 import os
 os.name # 操作系统类型
+os.uname() # 详细的系统信息
+os.environ # 环境变量
+os.environ.get('PATH') # 获取某个环境变量
+os.environ.get('x', 'default') # return `default`
+```
+
+### 操作文件和目录
+
+```python
+os.path.abspath('.')                              # 当前目录的绝对路径
+os.path.join('/Users/liuzhuan', 'testdir')        # 拼接路径
+os.path.split('/Users/liuzhuan/testdir/file.txt') # 拆分路径
+os.path.splitext('/path/to/file.txt')             # 得到文件扩展名
+os.path.isdir('/path')                            # 判断是否是文件夹
+os.path.isfile('/path')                           # 判断是否为文件
+
+os.mkdir('/Users/liuzhuan/testdir')               # 创建目录
+os.rmdir('/Users/liuzhuan/testdir')               # 删除目录
+os.listdir('.')                                   # 列出当前文件夹的内容
+os.rename('test.txt', 'test.py')                  # 重命名
+os.remove('test.py')                              # 删掉文件
+```
+
+`shutil` 模块提供了 `copyfile()` 函数。可以看作是 `os` 模块的补充。
+
+```python
+# 列出所有的文件夹
+[x for x in os.listdir('.') if os.path.isdir(x)]
+
+# 列出所有的 .py 文件
+[x for x in os.listdir('.') if os.path.isfile(x) and os.path.splitext(x)[1] == '.py']
 ```
