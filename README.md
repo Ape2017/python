@@ -12,6 +12,7 @@
 - [如何理解 metaclass ?](docs/understand-metaclass.md)
 - [如何调试？](python-2.7-tutorial-liao/notes7-debug.md)
 - [如何处理IO？](python-2.7-tutorial-liao/notes8-io.md)
+- [如何使用正则表达式？](scripts/re/intro.py)
 
 ## 教程列表
 
