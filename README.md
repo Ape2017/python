@@ -14,7 +14,8 @@
 - [如何处理IO？](python-2.7-tutorial-liao/notes8-io.md)
 - [如何使用正则表达式？](scripts/re/intro.py)
 - [如何处理日期和时间？](scripts/datetime/intro.py)
-- [用户输入日期时间和时区，如何将其转换为时间戳？](scripts/datetime/to_timestamp.py)
+    - [用户输入日期时间和时区，如何将其转换为时间戳？](scripts/datetime/to_timestamp.py)
+- [如何使用内建的集合模块？](scripts/collections/intro.py)
 
 ## 教程列表
 
