@@ -1,6 +1,6 @@
-# Interesting cards about Python
+# 关于 Python 的十万个为什么
 
-## 卡片列表
+## 问题列表
 
 - [理解 `with` 语句](understanding-with-statement.md)
 - [urllib 简介](urllib-intro.md)
@@ -16,4 +16,3 @@
 - [Python 教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 - [Python 入门 - 廖雪峰 - 慕课网](http://www.imooc.com/learn/177)
 - [Python 进阶 - 廖雪峰 - 慕课网](http://www.imooc.com/learn/317)
-
