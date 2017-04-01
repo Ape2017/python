@@ -4,6 +4,7 @@
 
 > The important thing is not to stop questioning. --- Albert Einstein
 
+- [如何进行数制转换（二进制、十进制和十六进制）？](scripts/basics/numeric_conversion.py)
 - [在循环中如何访问列表元素的索引值？](scripts/list/loop_with_index.py)
 - [理解 `with` 语句](docs/understanding-with-statement.md)
 - [urllib 简介](docs/urllib-intro.md)
