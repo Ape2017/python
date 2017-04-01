@@ -2,11 +2,11 @@
 
 ## 问题列表
 
-- [理解 `with` 语句](understanding-with-statement.md)
-- [urllib 简介](urllib-intro.md)
+- [理解 `with` 语句](docs/understanding-with-statement.md)
+- [urllib 简介](docs/urllib-intro.md)
 - [如何使用模块？](python-2.7-tutorial-liao/notes4-module.md)
 - [如何理解面向对象编程？](python-2.7-tutorial-liao/notes5-oop-basics.md)
-- [如何理解 metaclass ?](understand-metaclass.md)
+- [如何理解 metaclass ?](docs/understand-metaclass.md)
 - [如何调试？](python-2.7-tutorial-liao/notes7-debug.md)
 - [如何处理IO？](python-2.7-tutorial-liao/notes8-io.md)
 
