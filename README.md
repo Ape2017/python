@@ -18,6 +18,8 @@
     - [用户输入日期时间和时区，如何将其转换为时间戳？](scripts/datetime/to_timestamp.py)
 - [如何使用内建的集合模块？](scripts/collections/intro.py)
 - [如何使用 Base64 编码？](docs/base64/intro.md)
+- [struct 模块是做什么的？](docs/struct/intro.md)
+- [hashlib 如何使用？](docs/hashlib/intro.md)
 
 ## 教程列表
 
