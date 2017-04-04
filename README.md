@@ -21,6 +21,7 @@
 - [struct 模块是做什么的？](docs/struct/intro.md)
 - [hashlib 如何使用？](docs/hashlib/intro.md)
 - [itertools 如何使用？](docs/itertools/intro.md)
+- [contextlib 如何使用？](docs/contextlib/intro.md)
 
 ## 教程列表
 
