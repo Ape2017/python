@@ -20,11 +20,13 @@
 - [如何使用 Base64 编码？](docs/base64/intro.md)
 - [struct 模块是做什么的？](docs/struct/intro.md)
 - [hashlib 如何使用？](docs/hashlib/intro.md)
+- [itertools 如何使用？](docs/itertools/intro.md)
 
 ## 教程列表
 
 > Never too late to learn. 活到老，学到老。
 
+- [The Python Tutorial - Python 3.6.1 Documentation](https://docs.python.org/3.6/tutorial/index.html)
 - [Python 2.7 教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 - [Python 教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 - [Python 入门 - 廖雪峰 - 慕课网](http://www.imooc.com/learn/177)
