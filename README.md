@@ -23,6 +23,7 @@
 - [hashlib 如何使用？](docs/hashlib/intro.md)
 - [itertools 如何使用？](docs/itertools/intro.md)
 - [contextlib 如何使用？](docs/contextlib/intro.md)
+- [如何处理 XML ?](docs/xml/intro.md)
 
 ## 教程列表
 
