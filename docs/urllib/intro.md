@@ -17,3 +17,5 @@ urllib 的 `request` 模块可以很方便地抓取 URL 内容。
 如果要 POST 请求，需要把参数 `data` 以 bytes 形式传入。
 
 模拟一个微博登录，先读取登录的邮箱和口令，然后按照 weibo.cn 的登录页的格式以 `username=xxx&password=xxx` 的编码传入。[查看代码](../../scripts/urllib/weibo_login.py)。
+
+具体参见 Python 文档对于 [urllib](./api.md) 的详细介绍。

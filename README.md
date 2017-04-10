@@ -43,3 +43,10 @@
 
 - [Python 练习实例100 | 菜鸟教程](http://www.runoob.com/python/python-exercise-example100.html)
 - [leetcode](https://leetcode.com/)
+
+## 资源列表
+
+1. [Python 术语表](./docs/glossary.md)
+1. [Python 语言参考](https://docs.python.org/3.6/reference/index.html)
+1. [Python 标准库](https://docs.python.org/3.6/library/index.html)
+1. [Python 3.6.1 文档](https://docs.python.org/3.6/index.html)
