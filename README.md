@@ -26,6 +26,7 @@
 - [如何处理 XML ?](docs/xml/intro.md)
 - [如何解析 HTML?](docs/html/intro.md)
 - [如何操作 URL ？](docs/urllib/intro.md)
+- [How to deal with json](./docs/json/README.md)
 
 ## 教程列表
 
