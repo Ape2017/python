@@ -19,6 +19,8 @@ with urllib.request.urlopen('http://www.python.org/') as f:
 
 Note that urlopen returns a bytes object. This is because there is no way for urlopen to automatically determine the encoding of the byte stream it receives from the HTTP server. In general, a program will decode the returned object to string once it determines or guesses the appropriate encoding.
 
+> [如何使用 Python 2.x 的 urllib2 模块读取数据](./urllib2-demo/app.py)？
+
 ## Reference
 - [urllib - URL handling modules](https://docs.python.org/3/library/urllib.html)
 - [urllib.request](https://docs.python.org/3/library/urllib.request.html#module-urllib.request)

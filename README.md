@@ -40,6 +40,7 @@
 - [Python 入门 - 廖雪峰 - 慕课网](http://www.imooc.com/learn/177)
 - [Python 进阶 - 廖雪峰 - 慕课网](http://www.imooc.com/learn/317)
 - [Think Python 2e - Green Tea Press](http://greenteapress.com/wp/think-python-2e/), by Allen B. Downey
+- [Python 开发简单爬虫 - 慕课网](http://www.imooc.com/learn/563), by 疯狂的蚂蚁crazyant
 
 ## 习题集
 
