@@ -15,7 +15,7 @@
             <node_level_condition VALUE="6" MATCH_CASE="false" MATCH_APPROXIMATELY="false" COMPARATION_RESULT="0" SUCCEED="true"/>
         </conditional_style>
     </conditional_styles>
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -70,6 +70,14 @@
 </hook>
 <node TEXT="Tutorials" POSITION="right" ID="ID_396810689" CREATED="1505379773237" MODIFIED="1505379780279">
 <node TEXT="https://learnxinyminutes.com/docs/python/" ID="ID_1395890656" CREATED="1505379790702" MODIFIED="1505379953436" LINK="https://learnxinyminutes.com/docs/python/"/>
+<node TEXT="https://automatetheboringstuff.com/" FOLDED="true" ID="ID_968951289" CREATED="1505455412139" MODIFIED="1505455440488" LINK="https://automatetheboringstuff.com/">
+<node TEXT="Automate the Boring Stuff with Python" ID="ID_90271225" CREATED="1505455466830" MODIFIED="1505455473074"/>
+<node TEXT="Al Sweigart" ID="ID_48730714" CREATED="1505455526753" MODIFIED="1505455534739"/>
+</node>
+<node TEXT="Hello world! Computer Programming for Kids and Other Beginners" ID="ID_1544036012" CREATED="1505455753325" MODIFIED="1505456197513" LINK="http://home.ustc.edu.cn/~ustcsh/py2016/data/Warren%20Sande,%20Carter%20Sande-Hello%20World!_%20Computer%20Programming%20for%20Kids%20and%20Other%20Beginners-Manning%20Publications.pdf">
+<node TEXT="Warren Sande" ID="ID_1951519723" CREATED="1505455791007" MODIFIED="1505456159641"/>
+<node TEXT="Carter Sande" ID="ID_1100679243" CREATED="1505456131480" MODIFIED="1505456137833"/>
+</node>
 </node>
 <node TEXT="String" POSITION="left" ID="ID_1951269290" CREATED="1505379884074" MODIFIED="1505379886308"/>
 <node TEXT="global function" POSITION="right" ID="ID_273043413" CREATED="1505379889186" MODIFIED="1505379893148">
