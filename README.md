@@ -1,5 +1,7 @@
 # 关于 Python 的十万个为什么
 
+我叫 Python，生于 1989 年，是个 80 后。我爹是 Guido van Rossum，人称「龟叔」。
+
 ## 问题列表
 
 > The important thing is not to stop questioning. --- Albert Einstein
